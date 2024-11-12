@@ -1,0 +1,6 @@
+yagmail==0.11.224
+opencv-python==4.5.3.56
+opencv-contrib-python==4.5.3.56
+pandas==1.3.3
+numpy==1.21.2
+Pillow==8.3.2
